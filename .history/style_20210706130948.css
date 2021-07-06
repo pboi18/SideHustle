@@ -332,15 +332,6 @@ footer{
 
 
 @media only screen and (max-width: 767px) {
-
-    nav {
-        padding: 12px;
-    }
-
-    .get-started {
-        margin-top: 60px;
-    }
-
     .get-started img,
     .get-started h1,
     .get-started p {
@@ -381,20 +372,9 @@ footer{
 
 }
 
-footer {
-    padding-top: 170px;
+.nav {
+    padding: 12px;
 }
-
-
-.foot-img img {
-    width: 40%;
-}
-
-.ul1, .ul2, .ul3, .ul4, .ul5 {
-    width: 100%;
-    
-}
-
 }
 
 
